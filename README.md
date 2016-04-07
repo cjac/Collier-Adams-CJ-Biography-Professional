@@ -1,4 +1,4 @@
-# Collier-Adams-CJ-Biography-Professional
+# Collier-CJ-Biography-Professional
 A biography about C.J.'s professional life
 
 Title: Full Stack Development Engineer
