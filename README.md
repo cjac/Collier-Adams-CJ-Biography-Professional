@@ -30,7 +30,7 @@ Broad fields of work
 * Email
 ** Indexing
 ** Filtering
-** Huristics
+** Heuristics
 ** Recipient management
 ** Integration with other productivity tools
 ** Reception / Transmission
