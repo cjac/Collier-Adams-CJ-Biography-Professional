@@ -14,24 +14,24 @@ Broad fields of work
 * Network Operations
 * Network Engineering
 * Network Development
-** software which monitors network nodes & their traffic and
-   recognizes out-of-nominal situations
-** tools to babysit important IPSec, GRE, SIT, IPIP and PPP tunnels
+    * software which monitors network nodes & their traffic and
+      recognizes out-of-nominal situations
+    * tools to babysit important IPSec, GRE, SIT, IPIP and PPP tunnels
 * Development Operations
 * Human Interface Development
 * Front-end design and development
-** Web
-*** Static pages
-*** Dynamic pages
-** Native UI toolkits
-*** Windows, Mac, Linux
-** OpenGL
+    * Web
+        * Static pages
+        * Dynamic pages
+    * Native UI toolkits
+        * Windows, Mac, Linux
+    * OpenGL
 * Authentication, Authorization, Auditing
 * Email
-** Indexing
-** Filtering
-** Heuristics
-** Recipient management
-** Integration with other productivity tools
-** Reception / Transmission
-* 
+    * Indexing
+    * Filtering
+    * Heuristics
+    * Recipient management
+    * Integration with other productivity tools
+    * Reception / Transmission
+
